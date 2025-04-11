@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 98vw;
+}
+
+body {
+  width : 100%;
+  height : 100%;
+  margin : 0;
+  align-items: center;
+}
+
+.wrap {
+  width: 90%;
+  height : 100%;
+  padding-left : 3%;
+  margin-top : 1%;
+}
+
+.wrap textarea {
+  width: 100%;
+  height : 95%;
+  resize: none;
+  overflow-y: hidden;
+  font-size: 4em;
+  line-height: auto;
+}
